@@ -1,10 +1,10 @@
-# Quick Foods (CaCo)
+# Quick Foods
 
-![CaCo](https://i.ibb.co/N6zVN3s5/Screenshot-2025-07-11-211151.png)
+![Quick Foods]()
 
 A modern catering service platform connecting customers with professional catering services for events, parties, and special occasions.
 
-**Live Demo:** [CaCo](https://catering-connects.netlify.app/)
+**Live Demo:** [Quick Foods]()
 
 ## Features
 
@@ -48,8 +48,8 @@ A modern catering service platform connecting customers with professional cateri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sabbirsolid/catering-connects.git
-   cd catering-connects
+   git clone https://github.com/mdashraful24/quick-foods.git
+   cd quick-foods
    ```
 
 2. Install dependencies:
@@ -134,8 +134,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Screenshots
 
 ![Login Page](https://i.ibb.co/zHTxSnkK/Screenshot-2025-07-11-211359.png)
-![Online Service](https://i.ibb.co/VYVy5xVX/Screenshot-95.png)
-![Service Listing](https://i.ibb.co/Zzty9Ym7/Screenshot-96.png)
+![]()
+![]()
 
 ## Support
 
