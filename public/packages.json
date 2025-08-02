@@ -1,0 +1,74 @@
+
+   [
+      {
+        "id": "1",
+        "name": "Basic Package",
+        "description": "A simple and affordable package with classic menu options.",
+        "pricePerPerson": 10.99,
+        "minimumPeople": 10,
+        "itemsIncluded": [
+          "2 main dishes",
+          "1 side dish",
+          "1 dessert",
+          "1 beverage"
+        ],
+        "additionalOptions": {
+          "customizableMenu": false,
+          "vegetarianOptions": true
+        }
+      },
+      {
+        "id": "2",
+        "name": "Premium Package",
+        "description": "A premium package with an expanded menu and upgraded options.",
+        "pricePerPerson": 19.99,
+        "minimumPeople": 20,
+        "itemsIncluded": [
+          "3 main dishes",
+          "2 side dishes",
+          "2 desserts",
+          "2 beverages"
+        ],
+        "additionalOptions": {
+          "customizableMenu": true,
+          "vegetarianOptions": true
+        }
+      },
+      {
+        "id": "3",
+        "name": "Deluxe Package",
+        "description": "An all-inclusive package with gourmet selections and exclusive services.",
+        "pricePerPerson": 29.99,
+        "minimumPeople": 30,
+        "itemsIncluded": [
+          "4 main dishes",
+          "3 side dishes",
+          "2 appetizers",
+          "3 desserts",
+          "Unlimited beverages"
+        ],
+        "additionalOptions": {
+          "customizableMenu": true,
+          "vegetarianOptions": true,
+          "chefOnSite": true
+        }
+      },
+      {
+        "id": "4",
+        "name": "Vegetarian Feast",
+        "description": "A special package for vegetarian-only events.",
+        "pricePerPerson": 15.99,
+        "minimumPeople": 15,
+        "itemsIncluded": [
+          "3 main vegetarian dishes",
+          "2 side dishes",
+          "1 dessert",
+          "1 beverage"
+        ],
+        "additionalOptions": {
+          "customizableMenu": true,
+          "glutenFreeOptions": true
+        }
+      }
+    ]
+  

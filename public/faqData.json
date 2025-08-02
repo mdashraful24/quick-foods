@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "category": "General",
+        "faqs": [
+            {
+                "question": "What is Quick Foods (CaCo)?",
+                "answer": "Quick Foods (CaCo) is a platform that connects catering service providers across Bangladesh. We allow customers to explore catering services, order meals, and even book services for events. We also offer delivery services and student-friendly meal packages."
+            },
+            {
+                "question": "How can I find catering service providers on your platform?",
+                "answer": "Visit our website and browse by category, division, or area. You can filter providers based on ratings, services offered, and customer reviews to find the best fit for your needs."
+            },
+            {
+                "question": "What kind of meal packages do you offer?",
+                "answer": "We offer customizable meal packages, including breakfast, lunch, snacks, and dinner. We also have budget-friendly packages for students."
+            }
+        ]
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "category": "Order & Delivery",
+        "faqs": [
+            {
+                "question": "How do I place an order?",
+                "answer": "To place an order, browse our list of providers, select your desired service or meal, and follow the checkout process on the website. You’ll receive a confirmation email once the order is placed."
+            },
+            {
+                "question": "Does Quick Foods handle food delivery?",
+                "answer": "Yes, we provide reliable delivery services for orders placed through our platform. We ensure timely delivery to your location."
+            },
+            {
+                "question": "Can I schedule an order for a specific date and time?",
+                "answer": "Absolutely! When placing an order, you can choose your preferred delivery date and time."
+            }
+        ]
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb2",
+        "category": "For Catering Service Providers",
+        "faqs": [
+            {
+                "question": "How can I list my catering service on Quick Foods?",
+                "answer": "Catering service providers can fill out the *Add Your Listing* form on our website. Once approved, your services will be listed for customers to explore and order from."
+            },
+            {
+                "question": "Do I need to pay to list my service?",
+                "answer": "Currently, listing your service is free. However, we may introduce premium listing options in the future for enhanced visibility."
+            },
+            {
+                "question": "Can I use your delivery service for my orders?",
+                "answer": "Yes! Providers listed with us can opt to use our delivery network for seamless order fulfillment."
+            }
+        ]
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "category": "Payments",
+        "faqs": [
+            {
+                "question": "What payment methods do you accept?",
+                "answer": "We accept payments via mobile banking (e.g., bKash, Nagad), debit/credit cards, and cash on delivery."
+            },
+            {
+                "question": "Are there any additional fees for using Quick Foods?",
+                "answer": "No, there are no hidden fees. The price you see is the price you pay unless otherwise stated during checkout."
+            }
+        ]
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "category": "Student Packages",
+        "faqs": [
+            {
+                "question": "What is included in the student meal packages?",
+                "answer": "Our student packages include nutritious and affordable options for breakfast, lunch, snacks, and dinner. Each package is designed to meet dietary needs while staying budget-friendly."
+            },
+            {
+                "question": "Can I customize my student meal package?",
+                "answer": "Yes, customization options are available. You can select your preferred dishes based on your tastes and dietary restrictions."
+            }
+        ]
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "category": "Ingredient Delivery",
+        "faqs": [
+            {
+                "question": "What does the ingredient delivery service include?",
+                "answer": "We provide fresh, high-quality ingredients such as vegetables, spices, meat, and more, directly to catering providers. This ensures the meals served are made with pure and reliable ingredients."
+            },
+            {
+                "question": "How can catering providers sign up for ingredient delivery?",
+                "answer": "Catering providers can sign up for our ingredient delivery service by filling out the registration form on our website. Our team will get in touch with the details."
+            }
+        ]
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "category": "Support",
+        "faqs": [
+            {
+                "question": "Who do I contact if I have an issue with my order?",
+                "answer": "If you face any issues, you can reach out to our customer support team via email at *support@cateringconnects.com* or call us at *+880-XXXX-XXXXXX*"
+            },
+            {
+                "question": "Can I cancel or modify my order?",
+                "answer": "Yes, you can cancel or modify your order within a specific time frame. Please refer to our cancellation policy for more details."
+            }
+        ]
+    }
+]

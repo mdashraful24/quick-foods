@@ -1,0 +1,2113 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Spoon Catering",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "East Monipur, Katthaltola, Mirpur-2, Dhaka",
+            "postal_code": "1213"
+        },
+        "service_area": [
+            "Banani",
+            "Gulshan",
+            "Mohakhali",
+            "Baridhara",
+            "Bashundhara",
+            "Uttara",
+            "Tejgaon",
+            "Dhanmondi",
+            "Old Dhaka",
+            "Khilgaon"
+        ],
+        "contact": {
+            "phone": "01832-167030",
+            "email": "info@goldenspoonbd.com",
+            "website": "https://goldenspoonbd.com"
+        },
+        "services": [
+            "Wedding Catering",
+            "Corporate Events",
+            "Private Parties",
+            "Buffet Service"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Indian",
+            "Chinese",
+            "Continental"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 500,
+                "maximum": 2000
+            },
+            "custom_package": true
+        },
+        "rating": 4.5,
+        "reviews": [
+            {
+                "customer": "Rahim Ahmed",
+                "comment": "Great service and delicious food!",
+                "rating": 5
+            },
+            {
+                "customer": "Sarah Kabir",
+                "comment": "Affordable and reliable.",
+                "rating": 4
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 9:00 PM",
+            "weekends": "8:00 AM - 11:00 PM"
+        }
+    },
+    {
+        "id": 2,
+        "name": "My Ginger Kitchen",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Mirpur 10, Mirpur, Bangladesh",
+            "postal_code": "4100"
+        },
+        "service_area": [
+            "Agrabad",
+            "Halishahar",
+            "Patenga",
+            "Chittagong Port",
+            "Sholashahar",
+            "Bandar",
+            "Lalkhan Bazar",
+            "Pahartali",
+            "Badda",
+            "Jalalabad"
+        ],
+        "contact": {
+            "phone": "01873-226160",
+            "email": "support@royalfeast.com",
+            "website": "https://royalfeastbd.com"
+        },
+        "services": [
+            "Event Catering",
+            "Outdoor Catering",
+            "Live Cooking Stations"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "BBQ"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 700,
+                "maximum": 3000
+            },
+            "custom_package": false
+        },
+        "rating": 4.8,
+        "reviews": [
+            {
+                "customer": "Nusrat Jahan",
+                "comment": "Outstanding service and presentation!",
+                "rating": 4.8
+            }
+        ],
+        "availability": {
+            "weekdays": "10:00 AM - 10:00 PM",
+            "weekends": "10:00 AM - 11:59 PM"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Tasty Treat Caterers",
+        "image": "https://i.ibb.co.com/jkqsnhk/food-2.webp",
+        "location": {
+            "city": "Dhaka",
+            "address": "Gandaria , Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko",
+            "Moulvibazar",
+            "Fenchuganj",
+            "Jaflong",
+            "Jalalabad"
+        ],
+        "contact": {
+            "phone": "01738-480847",
+            "email": "info@tastytreat.com",
+            "website": "https://tastytreatbd.com"
+        },
+        "services": [
+            "Birthday Parties",
+            "Corporate Lunch",
+            "Outdoor Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Thai",
+            "Seafood"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 600,
+                "maximum": 2500
+            },
+            "custom_package": true
+        },
+        "rating": 4.6,
+        "reviews": [
+            {
+                "customer": "Abdul Karim",
+                "comment": "Fantastic food and amazing service.",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 9:00 PM",
+            "weekends": "9:00 AM - 10:00 PM"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Gourmet Palace Catering",
+        "image": "https://i.ibb.co.com/ZBDbDBV/food8.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Mohakhali, Dhaka",
+            "postal_code": "9203"
+        },
+        "service_area": [
+            "New Market",
+            "Sonadanga",
+            "Lalbagh",
+            "Shibbari",
+            "Khalishpur",
+            "Digholia",
+            "Chuknagar",
+            "Batiaghata",
+            "Rampal",
+            "Mongla"
+        ],
+        "contact": {
+            "phone": "17256955560",
+            "email": "gourmet@palacecatering.com",
+            "website": "https://gourmetpalacebd.com"
+        },
+        "services": [
+            "Wedding Catering",
+            "Full Buffet Service",
+            "Dessert Stations"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Italian",
+            "Continental"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 4000
+            },
+            "custom_package": true
+        },
+        "rating": 4.7,
+        "reviews": [
+            {
+                "customer": "Lina Akter",
+                "comment": "A bit pricey but worth it for the quality!",
+                "rating": 4
+            }
+        ],
+        "availability": {
+            "weekdays": "8:00 AM - 8:00 PM",
+            "weekends": "8:00 AM - 10:00 PM"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Razia's Feast",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Dhaka",
+            "postal_code": "6203"
+        },
+        "service_area": [
+            "Dorga Road",
+            "Shaheb Bazar",
+            "Chhoto Bagan",
+            "Alamnagar",
+            "Moti Jheel",
+            "Kashiadanga",
+            "Meherchandi",
+            "Shahid Smriti Road",
+            "Bogra",
+            "Jhalmala"
+        ],
+        "contact": {
+            "phone": "1951280032",
+            "email": "elitecuisine@raj.com",
+            "website": "https://elitecuisinebd.com"
+        },
+        "services": [
+            "Buffet Catering",
+            "Live Stations",
+            "Corporate Gatherings"
+        ],
+        "cuisine": [
+            "Mughlai",
+            "Italian",
+            "Bangladeshi"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 750,
+                "maximum": 3500
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Shamim Hossain",
+                "comment": "Quality service and good variety of dishes.",
+                "rating": 4
+            }
+        ],
+        "availability": {
+            "weekdays": "8:00 AM - 9:00 PM",
+            "weekends": "8:00 AM - 10:00 PM"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Shiuly's Kitchen",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Dhaka,South Banasree, Dhaka, Bangladesh",
+            "postal_code": "8200"
+        },
+        "service_area": [
+            "College Gate",
+            "Bakerganj",
+            "Khanpura",
+            "Mokamberhat",
+            "Sonarpara",
+            "Chandranath",
+            "Bhola",
+            "Patuakhali",
+            "Kuakata",
+            "Tungipara"
+        ],
+        "contact": {
+            "phone": "01992-421182",
+            "email": "grandfeast@barisal.com",
+            "website": "https://grandfeastbd.com"
+        },
+        "services": [
+            "Wedding Catering",
+            "Anniversary Parties",
+            "Corporate Catering"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Chinese",
+            "Lebanese"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 600,
+                "maximum": 2700
+            },
+            "custom_package": true
+        },
+        "rating": 4.2,
+        "reviews": [
+            {
+                "customer": "Fariha Sultana",
+                "comment": "Good experience with them!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 9:00 PM",
+            "weekends": "9:00 AM - 11:00 PM"
+        }
+    },
+    {
+        "id": 7,
+        "name": "JB'S Catering Service ",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Dhaka",
+            "postal_code": "9203"
+        },
+        "service_area": [
+            "New Market",
+            "Khalishpur",
+            "Ghoshal",
+            "Sonadanga",
+            "Daulatpur",
+            "Shivbari"
+        ],
+        "contact": {
+            "phone": "01748-190652",
+            "email": "blissfulbites@khulna.com",
+            "website": "https://blissfulbitesbd.com"
+        },
+        "services": [
+            "Corporate Lunch",
+            "Birthday Parties",
+            "BBQ Service"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Chinese",
+            "Italian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 700,
+                "maximum": 3000
+            },
+            "custom_package": false
+        },
+        "rating": 4.3,
+        "reviews": [
+            {
+                "customer": "Faysal Rahman",
+                "comment": "Delicious food at a reasonable price.",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "10:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 10:00 PM"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Food Haven Catering",
+        "image": "https://i.ibb.co.com/pQ9cr9r/food3.webp",
+        "location": {
+            "city": "Dhaka",
+            "address": "Dhaka",
+            "postal_code": "6200"
+        },
+        "service_area": [
+            "Shahmakhdum",
+            "Chhoto Bagan",
+            "Motihar",
+            "Bogra",
+            "Puthia",
+            "Haragachh"
+        ],
+        "contact": {
+            "phone": "01880879891",
+            "email": "foodhaven@rajshahi.com",
+            "website": "https://foodhavenbd.com"
+        },
+        "services": [
+            "Event Catering",
+            "Wedding Reception",
+            "Outdoor Catering"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Indian",
+            "Chinese"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 600,
+                "maximum": 2800
+            },
+            "custom_package": true
+        },
+        "rating": 4.5,
+        "reviews": [
+            {
+                "customer": "Tahmina Rahman",
+                "comment": "Everything was perfect!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 9:00 PM",
+            "weekends": "9:00 AM - 11:00 PM"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Salsa Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Road 09, Satarkul Road, Uttar Badda, Dhaka, Dhaka, Bangladesh",
+            "postal_code": "6200"
+        },
+        "service_area": [
+            "Rajshahi Sadar",
+            "Moti Jheel",
+            "Jhalmala",
+            "Alamnagar",
+            "Meherchandi",
+            "Shaheb Bazar"
+        ],
+        "contact": {
+            "phone": "01933-889955",
+            "email": "celebration@catering.com",
+            "website": "https://celebrationcateringbd.com"
+        },
+        "services": [
+            "Birthday Parties",
+            "Corporate Lunch",
+            "Private Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Italian",
+            "Chinese"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 650,
+                "maximum": 2900
+            },
+            "custom_package": true
+        },
+        "rating": 4.3,
+        "reviews": [
+            {
+                "customer": "Ruhul Amin",
+                "comment": "Very good food, highly recommend!",
+                "rating": 4
+            }
+        ],
+        "availability": {
+            "weekdays": "8:00 AM - 8:00 PM",
+            "weekends": "9:00 AM - 10:00 PM"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Konica's Office Catering",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "House #112, Road #01, DOHS, Mirpur, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01760-006899",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Mr Chef Catering",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "52-54 city club market Mirpur 11.5 dhaka Bangladesh , Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01725-041515",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 12,
+        "name": "SK Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": " House-ka-1/1,Road-13, North Baridhara, Gulshan, Dhaka-1213., Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01955-939843",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Unique Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "248, East Vashantek, Dhaka Cantonment, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01898-878686",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Mirpur Catering Service ",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "House: 739-742, Plot: 741, Flat: 1B, Road: 10, Avenue: 04, Mirpur-DOHS, Dhaka-1216, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01302-274022",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Sanu Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "House 42,Road 9/A Dhanmondi, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01713-007774",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Salam Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Head office 3/11 mohammadpur iqbal road , Sath mosjid market, 1207 Dhaka, Bangladesh, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01705-525535",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 17,
+        "name": "National catering service-Mirpur ",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "House no-10,Road no-2,Block-G,Mirpur-2,Dhaka-1216, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01823-259334",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Abdullah Catering Service ",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01601-444195",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Evergreen Food & Catering Service ",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Sector 11, Road 19, House 66, Uttara , Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01710-670502",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Nusaiba Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Mirpur, Dhaka., Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01774-417048",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Khabar Dabar catering ",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "150/B, Tejgaon Industrial Area, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01403-446688",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 22,
+        "name": "EPZ catering service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "DEPZ(dhaka)",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01788-246519",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Green Decorator & catering service ",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "175/A Noyataola moghbazer, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01749-419911",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Senakunja & Senamalanca's Catering service help desk",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Dhaka cantonment",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01713-937083",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Shafiq Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "madertak singapur road, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01927-441922",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Alauddin Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "372/A, Dilu Road, Mogbazar, Dhaka-1217, Dhaka, Bangladesh",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01713-589729",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Catering Service Dhanmondi,farmgate",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "SUKRABAD,DHANMONDI,DHAKA",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01310-550075",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Papri's Dream ",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Mohammadpur, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01767-575679",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 39,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    },
+    {
+        "id": 40,
+        "name": "Puran Dhaka Catering Service",
+        "image": "https://i.ibb.co.com/8XMJp5n/food-1.jpg",
+        "location": {
+            "city": "Dhaka",
+            "address": "Purana Mogol Toli, Dhaka",
+            "postal_code": "3100"
+        },
+        "service_area": [
+            "Zindabazar",
+            "Shahjalal University",
+            "Madhabkunda",
+            "Osmaninagar",
+            "Sylhet Sadar",
+            "Ranishangko"
+        ],
+        "contact": {
+            "phone": "01718-034955",
+            "email": "delight@sylhet.com",
+            "website": "https://delightcateringbd.com"
+        },
+        "services": [
+            "Weddings",
+            "Anniversary Parties",
+            "Corporate Events"
+        ],
+        "cuisine": [
+            "Bangladeshi",
+            "Mughlai",
+            "Indian"
+        ],
+        "pricing": {
+            "per_person": {
+                "minimum": 800,
+                "maximum": 3200
+            },
+            "custom_package": true
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "customer": "Nashit Khan",
+                "comment": "Amazing service, would recommend!",
+                "rating": 5
+            }
+        ],
+        "availability": {
+            "weekdays": "9:00 AM - 8:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        }
+    }
+]
